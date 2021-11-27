@@ -1,2 +1,2 @@
 # Mario
-Basics of html used to create a homepage
+Basics of html and css used to create a homepage
